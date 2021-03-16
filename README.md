@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Amarish Kumar Srivastava** student of **Vellore Institute of Technology,Bhopal** .</br>
 - 👀 I’m interested in playing games and listening songs.</br>
 - 🌱 I’m currently learning Bachelors in Computer Science Engineering at **Vellore Institute of Technology,Bhopal**.</br>
-- 💞️ I’m looking to collaborate on 
+
 - 📫 How to reach me... you can follow me on instagram aand facebook
 facebook--https://www.facebook.com/amarish.kumarsrivastava.7
 instagram--https://www.instagram.com/srivastava_amarish?r=nametag
